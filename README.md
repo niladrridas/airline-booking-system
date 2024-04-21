@@ -18,8 +18,9 @@ The Airline Booking System is a web-based application designed to facilitate the
 
 ## Prototype
 
-![part1](https://github.com/niladrridas/airline-booking-system/blob/main/data/prototype/1.png)
+
 ![part2](https://github.com/niladrridas/airline-booking-system/blob/main/data/prototype/2.png)
+![part1](https://github.com/niladrridas/airline-booking-system/blob/main/data/prototype/1.png)
 ![part3](https://github.com/niladrridas/airline-booking-system/blob/main/data/prototype/3.png)
 ![part4](https://github.com/niladrridas/airline-booking-system/blob/main/data/prototype/4.png)
 ![part5](https://github.com/niladrridas/airline-booking-system/blob/main/data/prototype/5.png)
