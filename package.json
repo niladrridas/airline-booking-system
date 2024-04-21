@@ -1,0 +1,38 @@
+{
+    "name": "airline-booking-system",
+    "version": "1.0.0",
+    "description": "A simple Airline Booking System project",
+    "main": "login.html",
+    "scripts": {
+      "start": "echo 'Starting Airline Booking System' && python airline_booking_system.py",
+      "test": "echo 'No tests specified'"
+    },
+    "keywords": [
+      "airline",
+      "booking",
+      "system"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "eslint": "^7.20.0",
+      "prettier": "^2.2.1"
+    },
+    "engines": {
+      "node": ">=10.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/niladrridas/airline-booking-system.git"
+    }
+    },
+    "bugs": {
+      "url": "https://github.com/niladrridas/airline-booking-system/issues"
+    }
+    },
+    "homepage": "https://github.com/niladrridas/airline-booking-system#readme"
+  }
+  
