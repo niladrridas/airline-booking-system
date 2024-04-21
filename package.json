@@ -4,7 +4,7 @@
     "description": "A simple Airline Booking System project",
     "main": "login.html",
     "scripts": {
-      "start": "echo 'Starting Airline Booking System' && python airline_booking_system.py",
+    "start": "echo 'Starting Booking System' && python booking_system.py",
       "test": "echo 'No tests specified'"
     },
     "keywords": [
@@ -12,7 +12,7 @@
       "booking",
       "system"
     ],
-    "author": "Your Name",
+    "author": "Niladri Das",
     "license": "MIT",
     "dependencies": {
       "express": "^4.17.1"
