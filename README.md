@@ -37,7 +37,7 @@ To run the Airline Booking System locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/airline-booking-system.git
+git clone https://github.com/niladrridas/airline-booking-system.git
 ```
 
 2. Navigate to the project directory:
